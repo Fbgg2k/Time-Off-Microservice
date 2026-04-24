@@ -71,7 +71,7 @@ $ npm install
 ### ⚙️ **Instalação**
 ```bash
 # Clonar o projeto
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Fbgg2k/Time-Off-Microservice)>
 cd time-off-microservice
 
 # Instalar dependências
